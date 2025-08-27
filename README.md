@@ -1,2 +1,2 @@
-# rustdev-vietnam-github.io
+# rustdev-vietnam.github.io
 RustDEV Vietnam
